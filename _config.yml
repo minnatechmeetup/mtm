@@ -16,7 +16,7 @@
 title: Minna Tech. Meetup
 email: hello@mxcliq.com
 description: >- # this means to ignore newlines until "baseurl:"
- Minna Technology Meet up is a forum where like minds in the technology space meet, learn and share their experience.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mxcliq
